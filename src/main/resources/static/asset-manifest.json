@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.050523cc.chunk.css",
+    "main.js": "/static/js/main.0c8a83c0.chunk.js",
+    "main.js.map": "/static/js/main.0c8a83c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a15f3f7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a15f3f7e.js.map",
+    "static/js/2.67555c39.chunk.js": "/static/js/2.67555c39.chunk.js",
+    "static/js/2.67555c39.chunk.js.map": "/static/js/2.67555c39.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1b1609fe9b948861f758e2930031089e.js": "/precache-manifest.1b1609fe9b948861f758e2930031089e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.67555c39.chunk.js.LICENSE.txt": "/static/js/2.67555c39.chunk.js.LICENSE.txt",
+    "static/media/birds.jpg": "/static/media/birds.e48e89b5.jpg",
+    "static/media/books.jpg": "/static/media/books.0052e70a.jpg",
+    "static/media/creative.jpg": "/static/media/creative.255c533f.jpg",
+    "static/media/mainsmile.jpg": "/static/media/mainsmile.5d34a240.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a15f3f7e.js",
+    "static/js/2.67555c39.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.0c8a83c0.chunk.js"
+  ]
+}
